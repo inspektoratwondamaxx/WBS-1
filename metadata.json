@@ -1,0 +1,6 @@
+{
+  "name": "WBS Inspektorat Wondama",
+  "description": "Sistem Whistleblowing (WBS) Resmi Inspektorat Kabupaten Teluk Wondama dengan enkripsi AES-256, Cetak Berita Acara Tanda Terima Resmi (Nomor Token & Ringkasan Permasalahan), Dashboard Masuk Pejabat APIP, Akses Inspektur (Sprint & Disposisi), dan Irban Investigasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
